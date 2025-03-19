@@ -5,8 +5,7 @@ PropertEase is a modern real estate website that allows users to list, search, a
   1) Daksh Chawla
   2) Ashish Karakoti
   3) Avikam Bir
-  4) Chirag Bhatia
-  5) Devesh Sharma
+  
 
 ## Features
 User Authentication -->  Secure login and registration for users.
